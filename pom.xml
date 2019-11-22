@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.zhg.javakc</groupId>
-  <artifactId>provision_manage_system</artifactId>
+  <artifactId>javakc_ssm</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>provision_manage_system Maven Webapp</name>
+  <name>javakc_ssm Maven Webapp</name>
   <url>http://www.example.com</url>
 
   <properties>
