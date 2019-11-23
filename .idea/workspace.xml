@@ -7,26 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60e85c23-6095-446e-8a59-43bcc67cfee6" name="Default Changelist" comment="第一次上传">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/again.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/newnewnewtest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/testt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xuan.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/dialect/db/HSQLDialect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/dialect/db/HSQLDialect.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/dialect/db/SQLServerDialect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/dialect/db/SQLServerDialect.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/page/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/page/Page.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/page/SQLHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/page/SQLHelper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/util/excel/ExportExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhg/javakc/base/util/excel/ExportExcel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhg/javakc/modules/system/home/service/HomeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhg/javakc/modules/system/home/service/HomeService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javakc_ssm/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/javakc_ssm/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/dialect/db/HSQLDialect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/dialect/db/HSQLDialect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/dialect/db/SQLServerDialect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/dialect/db/SQLServerDialect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/page/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/page/Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/page/SQLHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/page/SQLHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/util/excel/ExportExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/base/util/excel/ExportExcel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/modules/system/home/service/HomeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/javakc_ssm/WEB-INF/classes/com/zhg/javakc/modules/system/home/service/HomeService.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,24 +38,7 @@
     <favorites_list name="javakc_ssm" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1069" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db/javakc_oracle.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -167,8 +138,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../Software/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="D:\Software\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="localRepository" value="E:\apache-maven-3.6.0\repo3" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -219,17 +191,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="javakc_ssm" type="b2602c69:ProjectViewProjectNode" />
               <item name="javakc_ssm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javakc_ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javakc_ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javakc_ssm" type="b2602c69:ProjectViewProjectNode" />
@@ -271,20 +239,26 @@
               <item name="javakc_ssm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhg" type="462c0819:PsiDirectoryNode" />
+              <item name="javakc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javakc_ssm" type="b2602c69:ProjectViewProjectNode" />
               <item name="javakc_ssm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhg" type="462c0819:PsiDirectoryNode" />
+              <item name="javakc" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,7 +276,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23908046" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -646,6 +620,7 @@
       <workItem from="1574424285762" duration="21000" />
       <workItem from="1574427007876" duration="966000" />
       <workItem from="1574469707604" duration="488000" />
+      <workItem from="1574474421156" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="第一次上传">
       <created>1574340758136</created>
@@ -711,12 +686,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157171000" />
+    <option name="totallyTimeSpent" value="157263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.23324397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.23659517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -739,7 +714,7 @@
       <window_info anchor="bottom" id="Problems" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32962447" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" sideWeight="0.49731904" visible="true" weight="0.25637394" />
+      <window_info anchor="bottom" id="Version Control" order="15" sideWeight="0.49731904" weight="0.2560113" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.32941177" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="17" />
       <window_info anchor="bottom" id="Tail" order="18" />
@@ -889,26 +864,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/11.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/again.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/newnewnewtest.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1069" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/db/11.txt" />
+    <entry file="file://$PROJECT_DIR$/db/again.txt" />
+    <entry file="file://$PROJECT_DIR$/db/newnewnewtest.html" />
     <entry file="file://$PROJECT_DIR$/db/javakc_oracle.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
